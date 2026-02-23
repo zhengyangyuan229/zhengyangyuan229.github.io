@@ -1,37 +1,39 @@
 # Zhengyang Yuan
 
-Welcome to my personal webpage!
+PhD student at the **University of Edinburgh** (Biomedical Sciences).  
+I work on **neuroendocrinology** and **pituitary corticotroph signalling**, focusing on how cells decode input patterns (frequency, amplitude, duration) using calcium imaging and downstream readouts (e.g., pCREB).
 
 ---
 
-## 👨‍🔬 About Me
-I am a PhD student at the University of Edinburgh, working on neuroendocrinology and pituitary corticotroph calcium signalling.
+## Research focus
+- **Frequency encoding** in corticotroph cells (CRH/AVP inputs)
+- **Calcium imaging analysis** (signal processing, peak features, AUC, baseline correction)
+- **Image segmentation & quantification** (Cellpose/Imaris, QC metrics)
 
 ---
 
-## 🔬 Research Interests
-- Neuroendocrinology
-- Calcium imaging analysis
-- Pituitary corticotroph signalling
-- Data analysis in Python & R
+## Current work
+- Tissue slice experiments with patterned stimulation (CRH/AVP, KCl)
+- Automated pipelines for segmentation + single-cell quantification
+- Experimental plans for secretion assays (ACTH) alongside imaging readouts
 
 ---
 
-## 📊 Projects
-- Corticotroph calcium dynamics
-- pCREB signalling quantification
-- Image segmentation using Cellpose
+## Tools & skills
+**Analysis:** Python, R, Jupyter, ggplot2  
+**Imaging:** Fiji/ImageJ, Cellpose, Imaris  
+**Methods:** confocal/TIRF workflows, quantification, reproducible version control (Git/GitHub)
 
 ---
 
-## 🧠 Skills
-- Python / R
-- ImageJ / Fiji
-- Confocal & TIRF imaging
-- Data analysis & statistics
+## Teaching & tutoring
+Teaching assistant for **IBI1** (University of Edinburgh).  
+I support practical sessions on Git/GitHub, basic coding workflows, and reproducible research.
 
 ---
 
-## 📫 Contact
-Email: your.email@ed.ac.uk  
-GitHub: https://github.com/zhengyangyuan229
+## Contact
+- Email: **YOUR_EMAIL@ed.ac.uk**
+- GitHub: **https://github.com/zhengyangyuan229**
+
+> Tip: Replace the email above with your real address before sharing publicly.
